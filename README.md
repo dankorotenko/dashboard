@@ -1,4 +1,4 @@
-# A Dashboard creeated on React using Tailwind and Syncfusion
+# A Dashboard created with React using Tailwind and Syncfusion
 
 Bootstrapped from [Create React App](https://github.com/facebook/create-react-app).
 
